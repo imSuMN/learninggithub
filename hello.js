@@ -1,7 +1,1 @@
-console.log("helo world")
-
-function(){
-  for(var i = 0 ;  i < 10 ; i++){
-    console.log(i)
-  }
-}
+console.log("This is the change after the branch suman2 is created.")
